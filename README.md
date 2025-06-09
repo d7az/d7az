@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**d7az/d7az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# César Díaz
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+
+Programador Fullstack especializado en backend .Net y proceso ETL con SQL.
+
+He trabajado en diferentes sectores como: banca, producción, retail, consumo minorista.
+
+
+## 🛠 Skills
+C#, .Net Framework, .Net Core, .Net WF, SQL, SSRS, SSIS, JavaScipt, React
+
